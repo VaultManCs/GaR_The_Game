@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Chris","characterIndex":0,"characterName":"!Chris1","classId":5,"equips":[1,1,0,3,0],"faceIndex":0,"faceName":"Chris","traits":[{"code":43,"dataId":1,"value":1},{"code":43,"dataId":10,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Chris","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Kev","characterIndex":0,"characterName":"!Kev1","classId":5,"equips":[2,1,0,3,0],"faceIndex":0,"faceName":"Kev","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kev","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Stock_Image","characterIndex":0,"characterName":"!Stock_Image","classId":3,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Stock_Image","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stock Image","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":6,"characterName":"!Flame","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
