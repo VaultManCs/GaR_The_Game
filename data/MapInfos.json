@@ -18,5 +18,5 @@ null,
 {"id":16,"expanded":true,"name":"Village","order":17,"parentId":0,"scrollX":712,"scrollY":1142.6666666666667},
 {"id":17,"expanded":false,"name":"Etch-Stage","order":15,"parentId":14,"scrollX":712,"scrollY":406.6666666666667},
 {"id":18,"expanded":false,"name":"Cematary","order":18,"parentId":16,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":19,"expanded":false,"name":"MAP019","order":19,"parentId":0,"scrollX":722.6666666666666,"scrollY":400.6666666666667}
+{"id":19,"expanded":false,"name":"MAP019","order":19,"parentId":0,"scrollX":722.6666666666666,"scrollY":398}
 ]
