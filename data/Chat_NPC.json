@@ -1,0 +1,23 @@
+[
+    null,
+  {
+    "id": 1,
+       "textByActor": {
+         "1": "You are Chris.\nYou created this game.\nThank you for giving me words.",
+         "2": "You are Kev.\nYou've got blue hair.\nOh, and you make sounds too."
+    },
+         "defaultText": "Hello, stranger."
+  },
+  {
+    "id": 2,
+       "textByActor": {
+         "1": "Hi Chris.\nI guess if you're reading this, you're really testing things",
+         "2": "Hi Kev.\nI guess if you're reading this, you're really testing things"
+    },
+         "defaultText": "Hello, stranger.\nAre you testing too?"
+  }
+
+
+
+
+]
